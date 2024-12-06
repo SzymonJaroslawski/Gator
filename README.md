@@ -30,7 +30,7 @@ You will need to install Postgres, Go and Goose on your system
   }
 ```
 
-You will probably want to remove the cloned repo after install the program.
+You will probably want to remove the cloned repo after installing the program.
 
 ## Usage
 
