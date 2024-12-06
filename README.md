@@ -30,6 +30,8 @@ You will need to install Postgres, Go and Goose on your system
   }
 ```
 
+You will probably want to remove the cloned repo after install the program.
+
 ## Usage
 
 First you need to register new user. Command register always logins you into the new user.
