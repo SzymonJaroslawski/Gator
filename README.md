@@ -87,7 +87,7 @@ List follows with "Gator following"
 
 Unfollow feeds with "Gator unfollow <url>"
 
-```
+```</url>
   Gator unfollow "https://blog.boot.dev/inde.xml"
 ```
 
@@ -105,4 +105,14 @@ Use "Gator browse <limit>" to browse post from followed feeds by the user
 
 ```
   Gator browse 10
+```
+
+## Build
+
+Versions:
+```
+  - postgres (PostgreSQL) 16.3
+  - go version go1.23.4 linux/amd64
+  - goose version: v3.23.0
+  - sqlc v1.27.0
 ```
